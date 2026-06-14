@@ -10,6 +10,7 @@ Your [contributions](contributing.md) are always welcome !
 
 Repository | Description
 ---- | ----
+| [DVAP](https://github.com/sonuoffsec/DVAP) | Damn Vulnerable AI Platform - The playground for AI security, featuring hands-on labs for prompt injection, agent exploitation, MCP abuse, RAG attacks, model security, and AI red-team training | ⭐ |
 [Android Security](https://github.com/ashishb/android-security-awesome) | Collection of Android security related resources
 [AppSec](https://github.com/paragonie/awesome-appsec) | Resources for learning about application security
 [Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery) | List of resources which help during asset discovery phase of a security assessment engagement
